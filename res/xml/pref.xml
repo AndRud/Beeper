@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference 
+        android:key="timeToBeep"
+        android:summary="Time to Beep, sec"
+        android:title="Time to Beep"
+        android:defaultValue="5"
+        android:numeric="integer"/>
+	<EditTextPreference 
+        android:key="countBeep"
+        android:summary="Count Beep"
+        android:title="Count Beep"
+        android:defaultValue="1"
+        android:numeric="integer"/>	
+	<ListPreference 
+	    android:key="listSounds"
+	    android:summary="Choose sound of Beep"
+	    android:title="Sounds"/>
+</PreferenceScreen>

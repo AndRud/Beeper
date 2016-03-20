@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beeper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="beep">Beep</string>
+    <string name="beeper">Beeper</string>
+    <string name="beep_off">BEEP OFF</string>
+    <string name="beep_on">BEEP ON</string>
+    <string name="popup">Popup</string>
+    <string name="dismiss">Dismiss</string>
+
+</resources>

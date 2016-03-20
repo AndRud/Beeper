@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+	android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    android:gravity="center">
+    <TextView 
+        android:id="@+id/tvBeep"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/button_border"
+        android:text="@string/beep_off"
+        android:gravity="center"
+        android:textStyle="bold|italic"
+        android:textSize="16sp"
+        android:maxLines="1"
+        android:minWidth="40dp"
+        android:textColor="@color/text_color"/>
+</RelativeLayout>
+<!-- From: file:/D:/Programs/Android/Apps/Beeper/app/src/main/res/layout/beep_widget.xml -->

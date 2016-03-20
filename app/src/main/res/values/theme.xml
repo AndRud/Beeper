@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<style name="HabraTheme" parent="Theme.AppCompat.Light">
+	    <item name="android:windowBackground">@color/windowBackground</item>
+	    <item name="android:textColor">@color/textColor</item>
+	    <item name="android:buttonStyle">@style/HabraStyleButton</item>
+	</style>    
+	<style name="HabraStyleButton">
+	    <item name="android:background">@drawable/hbutton</item>
+	</style>
+</resources>

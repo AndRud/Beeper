@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="windowBackground">#F06451</color>
+	<color name="textColor">#F0E68C</color>
+	<color name="endColor">#B7EF8E</color>
+	<color name="startColorNorm">#7FA40E</color>
+	<color name="startColorFoc">#E8D4B0</color>
+	<color name="strokeColor">#52B10C</color>
+</resources>
